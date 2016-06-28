@@ -1,0 +1,15 @@
+{
+  "name": "mongo-jsfile",
+  "version": "1.0.0",
+  "description": "Class stuff",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^4.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sheena Takkenberg",
+  "license": "ISC"
+}
